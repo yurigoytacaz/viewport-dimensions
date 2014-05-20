@@ -1,4 +1,5 @@
 viewport-dimensions
 ===================
 
-Press 'shift' key to toggle Viewport Dimensions on top right corner.
+- Press 'option' key to toggle Viewport Dimensions on bottom right corner.
+- Auto-shown during resize.
